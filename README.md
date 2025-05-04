@@ -4,6 +4,8 @@ This dashboard performs sentiment analysis on financial news headlines or conten
 
 
 
+(![image](https://github.com/user-attachments/assets/f2727ffb-e7bd-49fe-ad28-72246f040e5a)
+)
 
 
 
